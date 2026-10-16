@@ -1,3 +1,10 @@
 /target
 /misc
 /node_modules
+
+## there added by nk4dev
+CLAUDE.md
+AGENT.md
+
+.vscode
+.idea
